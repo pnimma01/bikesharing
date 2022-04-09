@@ -12,6 +12,7 @@ In this project, we will use New York cityBike data to help create a business pr
 
 ## **Results**
 
+The results are presented in the form of a user story, and can be viewed here: 
 [Tableau Public Link](https://public.tableau.com/app/profile/puneeth.nimmagadda/viz/NYC_CitiBike_Challenge_16492080735910/Story1)
 
 
@@ -23,7 +24,7 @@ Nearly all bikes are checked out for less than an hour at a time, with most ride
 ### **Checkout Times by Gender**
 A majority of bikes are checked out by male riders.
 
-![Checkout Times by Gender](https://github.com/pnimma01/bikesharing/blob/1f2114fe921c42a4d12087cb188d575daa846c88/Challenge/Resources/Checkout%20Times%20by%20Gender.png
+![Checkout Times by Gender](https://github.com/pnimma01/bikesharing/blob/1f2114fe921c42a4d12087cb188d575daa846c88/Challenge/Resources/Checkout%20Times%20by%20Gender.png)
 
 
 ### **Trips by Weekday for Each Hour**
